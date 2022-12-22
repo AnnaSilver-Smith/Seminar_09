@@ -1,0 +1,15 @@
+H:\Seminar 9\Lesson68\bin\Debug\net7.0\Lesson68.exe
+H:\Seminar 9\Lesson68\bin\Debug\net7.0\Lesson68.deps.json
+H:\Seminar 9\Lesson68\bin\Debug\net7.0\Lesson68.runtimeconfig.json
+H:\Seminar 9\Lesson68\bin\Debug\net7.0\Lesson68.dll
+H:\Seminar 9\Lesson68\bin\Debug\net7.0\Lesson68.pdb
+H:\Seminar 9\Lesson68\obj\Debug\net7.0\Lesson68.csproj.AssemblyReference.cache
+H:\Seminar 9\Lesson68\obj\Debug\net7.0\Lesson68.GeneratedMSBuildEditorConfig.editorconfig
+H:\Seminar 9\Lesson68\obj\Debug\net7.0\Lesson68.AssemblyInfoInputs.cache
+H:\Seminar 9\Lesson68\obj\Debug\net7.0\Lesson68.AssemblyInfo.cs
+H:\Seminar 9\Lesson68\obj\Debug\net7.0\Lesson68.csproj.CoreCompileInputs.cache
+H:\Seminar 9\Lesson68\obj\Debug\net7.0\Lesson68.dll
+H:\Seminar 9\Lesson68\obj\Debug\net7.0\refint\Lesson68.dll
+H:\Seminar 9\Lesson68\obj\Debug\net7.0\Lesson68.pdb
+H:\Seminar 9\Lesson68\obj\Debug\net7.0\Lesson68.genruntimeconfig.cache
+H:\Seminar 9\Lesson68\obj\Debug\net7.0\ref\Lesson68.dll
