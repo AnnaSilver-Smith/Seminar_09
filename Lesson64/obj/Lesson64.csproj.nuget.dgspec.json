@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Seminar 9\\Lesson 64\\Lesson64\\Lesson64\\Lesson64.csproj": {}
+    "H:\\Seminar 9\\Lesson64\\Lesson64.csproj": {}
   },
   "projects": {
-    "H:\\Seminar 9\\Lesson 64\\Lesson64\\Lesson64\\Lesson64.csproj": {
+    "H:\\Seminar 9\\Lesson64\\Lesson64.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Seminar 9\\Lesson 64\\Lesson64\\Lesson64\\Lesson64.csproj",
+        "projectUniqueName": "H:\\Seminar 9\\Lesson64\\Lesson64.csproj",
         "projectName": "Lesson64",
-        "projectPath": "H:\\Seminar 9\\Lesson 64\\Lesson64\\Lesson64\\Lesson64.csproj",
+        "projectPath": "H:\\Seminar 9\\Lesson64\\Lesson64.csproj",
         "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "H:\\Seminar 9\\Lesson 64\\Lesson64\\Lesson64\\obj\\",
+        "outputPath": "H:\\Seminar 9\\Lesson64\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

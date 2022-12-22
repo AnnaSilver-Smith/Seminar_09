@@ -13,3 +13,18 @@ H:\Seminar 9\Lesson 64\Lesson64\Lesson64\obj\Debug\net7.0\refint\Lesson64.dll
 H:\Seminar 9\Lesson 64\Lesson64\Lesson64\obj\Debug\net7.0\Lesson64.pdb
 H:\Seminar 9\Lesson 64\Lesson64\Lesson64\obj\Debug\net7.0\Lesson64.genruntimeconfig.cache
 H:\Seminar 9\Lesson 64\Lesson64\Lesson64\obj\Debug\net7.0\ref\Lesson64.dll
+H:\Seminar 9\Lesson64\bin\Debug\net7.0\Lesson64.exe
+H:\Seminar 9\Lesson64\bin\Debug\net7.0\Lesson64.deps.json
+H:\Seminar 9\Lesson64\bin\Debug\net7.0\Lesson64.runtimeconfig.json
+H:\Seminar 9\Lesson64\bin\Debug\net7.0\Lesson64.dll
+H:\Seminar 9\Lesson64\bin\Debug\net7.0\Lesson64.pdb
+H:\Seminar 9\Lesson64\obj\Debug\net7.0\Lesson64.csproj.AssemblyReference.cache
+H:\Seminar 9\Lesson64\obj\Debug\net7.0\Lesson64.GeneratedMSBuildEditorConfig.editorconfig
+H:\Seminar 9\Lesson64\obj\Debug\net7.0\Lesson64.AssemblyInfoInputs.cache
+H:\Seminar 9\Lesson64\obj\Debug\net7.0\Lesson64.AssemblyInfo.cs
+H:\Seminar 9\Lesson64\obj\Debug\net7.0\Lesson64.csproj.CoreCompileInputs.cache
+H:\Seminar 9\Lesson64\obj\Debug\net7.0\Lesson64.dll
+H:\Seminar 9\Lesson64\obj\Debug\net7.0\refint\Lesson64.dll
+H:\Seminar 9\Lesson64\obj\Debug\net7.0\Lesson64.pdb
+H:\Seminar 9\Lesson64\obj\Debug\net7.0\Lesson64.genruntimeconfig.cache
+H:\Seminar 9\Lesson64\obj\Debug\net7.0\ref\Lesson64.dll
